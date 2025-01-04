@@ -9,4 +9,6 @@
       À ne pas être confondu avec ඞlang.
 
 ###############################################
+if the remains of 2 when eaten by gus is 0: "Pair" ඬAssumant que la variable gus est le nombre entier positif donné
+if impostor: "Impair"
 ඞඞඞඞඩඩඩඩඞඩඩඩඞඩඩඩඩඩඬ

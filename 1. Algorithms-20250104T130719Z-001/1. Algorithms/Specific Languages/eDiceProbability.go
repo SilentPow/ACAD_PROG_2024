@@ -16,12 +16,17 @@ type dice struct {
 }
 
 func solution(n int, dice ...dice) float32 {
+	var total int = 0
+	var nbdes int = 0
 	if dice[0].number <= 0 || dice[0].size <= 0 {
 		panic("invalid die expression")
 	}
-	var probability float32 = 0.5
-	if probability > 1 || probability < 0 {
-		panic("probabilité invalide")
+	for i:=0; i < len(dice); i++ {
+		total += dice[i].number * dice[i].size
+		nbdes += dice[i].size
 	}
-	return probability
+	var moyenne = total/nbdes
+
+	return moyenne
+
 }
