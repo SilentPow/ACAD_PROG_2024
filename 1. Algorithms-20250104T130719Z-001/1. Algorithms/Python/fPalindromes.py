@@ -12,7 +12,7 @@ def solution():
     string = input()
     assert isinstance(string, str)
     assert len(string) <= 10
-    if string[0] == string[-1]:
-        return True
-    else:
-        return False
+    if ( string == string[::-1]) :
+      return "C'est un palydrome"
+    else :
+      return "Pas un palyndrome"
