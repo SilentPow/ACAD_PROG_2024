@@ -48,5 +48,6 @@ local function solution( cards )
     assert(#cards == 5);
     assert(contains( Suits, cards[0][1] ));
     assert(cards[0][0] >= 1 and cards[0][0] <= 13);
+    
     return Hands.FIVE_OF_A_KIND;
 end;

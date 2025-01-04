@@ -12,5 +12,9 @@ Method.
 Take dirt from refrigerator.
 Fold dirt into 1st mixing bowl.
 Pour contents of the 1st mixing bowl into the baking dish.
+Take water from refrigerator.
+Add water to 1st mixing bowl.
+Pour contents of the 1st mixing bowl into the baking dish. 
+Liquefy dirt.
 
 Serves 1.
