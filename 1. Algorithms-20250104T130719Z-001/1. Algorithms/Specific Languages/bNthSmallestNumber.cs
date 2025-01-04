@@ -15,14 +15,17 @@
 public int solution(int n, List<int> numbers)
 {
     int i;
-    i = LinqFunc();
+    i = LinqFunc(n, numbers);
     return i;
 }
 
 
-public int LinqFunc()
+public int LinqFunc(int n, List<int> numbers)
 {
-    //LINQ goes here
-    //LINQ code ici
-    return 0;
+    var solution = from number in numbers
+                   where number == numbers.ElementAt(n)
+                   select number;
+                   
+    int i = solution.ElementAt(0);  
+    return i;
 }
