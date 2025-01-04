@@ -1,0 +1,13 @@
+1. a) Compute the sequence given up to i terms. Refer to the questionnaire for the sequence.
+      All text after the line of hashes will be taken as your solution and will not be processed in any way, including trimming trailing whitespaces and otherwise.
+      For the assembly Assembly solution, output your answer to standard output and clearly indicate with a comment where to input n into your code.
+      If you put an additional line of hashes your solution will break.
+
+1. a) Calculez la séquence donnée jusqu'au ieme terme. Référez au questionnaire pour la séquence.
+      Tout texte après la ligne de dièses sera pris en intégral pour votre solution et ne sera pas traité en aucune manière, incluant le taillage des espaces et autrement.
+      Pour la solution en Assembly, imprimez votre réponse au flux standard de sortie et clairement indiquer où placer n dans votre code avec un commentaire.
+Si vous mettez une ligne additionelle de dièses votre solution ne sera pas pris en compte.
+
+NASM v2.15.05
+
+#######################################################

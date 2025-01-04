@@ -1,0 +1,12 @@
+1. i) Determine if a given positive integer from standard input is even.
+      All text after the line of hashes will be taken as your solution and will not be processed in any way, including trimming trailing whitespaces and otherwise.
+      For this language, print your response to standard output
+      Not to be confused with ඞlang.
+
+1. i) Déterminez si un nombre entier positif donné du flux standard d'entrée est pair. 
+      Tout texte après la ligne de dièses sera pris en intégral pour votre solution et ne sera pas traité en aucune manière, incluant le taillage des espaces et autrement.
+      Pour ce language, imprimez votre réponse au flux standard de sortie.
+      À ne pas être confondu avec ඞlang.
+
+###############################################
+ඞඞඞඞඩඩඩඩඞඩඩඩඞඩඩඩඩඩඬ

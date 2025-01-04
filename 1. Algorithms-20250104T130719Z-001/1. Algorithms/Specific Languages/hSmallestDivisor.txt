@@ -1,0 +1,16 @@
+Recipe to print the smallest divisor of an integer from standard input that is larger than 1.
+
+This famous recipe prints to standard output the smallest divisor of an integer that is larger than one. That is, the divisor is larger than one. The given integer will also be larger than one. Cette fameuse recette imprime au flux standart de sortie le plus petit facteur d'un nombre entier qui est supérieur à 1. C'est-à-dire, le facteur est supérieur à un. Le nombre entier est aussi supérieur à un, et est donné dans le flux standard d'entrée.
+
+Ingredients.
+100 g dirt
+3 dashes water
+
+Cooking time: 3 hours.
+
+Method.
+Take dirt from refrigerator.
+Fold dirt into 1st mixing bowl.
+Pour contents of the 1st mixing bowl into the baking dish.
+
+Serves 1.
