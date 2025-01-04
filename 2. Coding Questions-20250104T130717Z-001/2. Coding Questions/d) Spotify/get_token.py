@@ -43,9 +43,9 @@ def get_auth_token(token):
 #                 result = requests.get(url, headers=get_auth_token(token))
 #                 print(result)
 #                 cnt+=1
-  
-token = get_token()
 
+# J'ai pas trouvé comment get les genres, mais normalement on aurait pu aller les chercher en faisant une requete à chaque artiste individuel
+token = get_token()
 
 #print(token)
 get_playlist(token)
